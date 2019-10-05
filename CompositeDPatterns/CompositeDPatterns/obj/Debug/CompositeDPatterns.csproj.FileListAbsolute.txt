@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\TI 1\CompositeDPatterns\CompositeDPatterns\bin\Debug\CompositeDPatterns.exe.config
+C:\Users\Asus\Desktop\TI 1\CompositeDPatterns\CompositeDPatterns\bin\Debug\CompositeDPatterns.exe
+C:\Users\Asus\Desktop\TI 1\CompositeDPatterns\CompositeDPatterns\bin\Debug\CompositeDPatterns.pdb
+C:\Users\Asus\Desktop\TI 1\CompositeDPatterns\CompositeDPatterns\obj\Debug\CompositeDPatterns.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\TI 1\CompositeDPatterns\CompositeDPatterns\obj\Debug\CompositeDPatterns.exe
+C:\Users\Asus\Desktop\TI 1\CompositeDPatterns\CompositeDPatterns\obj\Debug\CompositeDPatterns.pdb

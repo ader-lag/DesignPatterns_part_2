@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\TI 1\FacadeDPatterns\FacadeDPatterns\bin\Debug\FacadeDPatterns.exe.config
+C:\Users\Asus\Desktop\TI 1\FacadeDPatterns\FacadeDPatterns\bin\Debug\FacadeDPatterns.exe
+C:\Users\Asus\Desktop\TI 1\FacadeDPatterns\FacadeDPatterns\bin\Debug\FacadeDPatterns.pdb
+C:\Users\Asus\Desktop\TI 1\FacadeDPatterns\FacadeDPatterns\obj\Debug\FacadeDPatterns.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\TI 1\FacadeDPatterns\FacadeDPatterns\obj\Debug\FacadeDPatterns.exe
+C:\Users\Asus\Desktop\TI 1\FacadeDPatterns\FacadeDPatterns\obj\Debug\FacadeDPatterns.pdb
